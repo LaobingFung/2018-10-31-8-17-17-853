@@ -1,5 +1,5 @@
 "use strict";
-import Person from "../practice_10/person.js"
+import Person from "./person.js"
 class Teacher extends Person {
   constructor(id, name, age, klasses) {
     super(id, name, age);
